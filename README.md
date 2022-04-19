@@ -1,2 +1,2 @@
 # ec2-cicd
-hello server
+1. hello server
